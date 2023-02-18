@@ -19,3 +19,61 @@ Bacalhau技术文档（英文版本）：[网页](https://docs.bacalhau.org)/[Gi
 
 ### 拉取请求 Pull Request
 我们当然也欢迎你呈交拉取请求。我们会尽快审批并且合到main分支上。欢迎[点击这里](https://github.com/lucas-chong/cn-docs.bacalhau.org/pulls)
+
+## 技术文档翻译清单 Checklist
+
+### 简体中文
+
+| 主题                          	| 负责人 	| 审核员 	| 赏金金额 	| 完成✅|
+|-------------------------------	|--------	|--------	|----------	|------	|
+| about-bacalhau.md             	|        	|        	|          	|      	|
+| architecture.md               	|        	|        	|          	|      	|
+| landscape.md                  	|        	|        	|          	|      	|
+| socialmedia.md                	|        	|        	|          	|      	|
+| style-guide.md                	|        	|        	|          	|      	|
+| ways-to-contribute.md         	|        	|        	|          	|      	|
+| docker-workload-onboarding.md 	|        	|        	|          	|      	|
+| installation.md               	|        	|        	|          	|      	|
+| resources.md                  	|        	|        	|          	|      	|
+| wasm-workload-onboarding.md   	|        	|        	|          	|      	|
+| gpu.md                        	|        	|        	|          	|      	|
+| networking.md                 	|        	|        	|          	|      	|
+| parallel-workloads.md         	|        	|        	|          	|      	|
+| private-cluster.md            	|        	|        	|          	|      	|
+| job-selection.md              	|        	|        	|          	|      	|
+| networking.md                 	|        	|        	|          	|      	|
+| quick-start-docker.md         	|        	|        	|          	|      	|
+| quick-start.md                	|        	|        	|          	|      	|
+| resource-limits.md            	|        	|        	|          	|      	|
+| storage-providers.md          	|        	|        	|          	|      	|
+| test-network.md               	|        	|        	|          	|      	|
+| windows-support.md            	|        	|        	|          	|      	|
+| debugging.md                  	|        	|        	|          	|      	|
+
+### 繁体中文
+
+| 主题                          	| 负责人 	| 审核员 	| 赏金金额 	| 完成✅|
+|-------------------------------	|--------	|--------	|----------	|------	|
+| about-bacalhau.md             	|        	|        	|          	|      	|
+| architecture.md               	|        	|        	|          	|      	|
+| landscape.md                  	|        	|        	|          	|      	|
+| socialmedia.md                	|        	|        	|          	|      	|
+| style-guide.md                	|        	|        	|          	|      	|
+| ways-to-contribute.md         	|        	|        	|          	|      	|
+| docker-workload-onboarding.md 	|        	|        	|          	|      	|
+| installation.md               	|        	|        	|          	|      	|
+| resources.md                  	|        	|        	|          	|      	|
+| wasm-workload-onboarding.md   	|        	|        	|          	|      	|
+| gpu.md                        	|        	|        	|          	|      	|
+| networking.md                 	|        	|        	|          	|      	|
+| parallel-workloads.md         	|        	|        	|          	|      	|
+| private-cluster.md            	|        	|        	|          	|      	|
+| job-selection.md              	|        	|        	|          	|      	|
+| networking.md                 	|        	|        	|          	|      	|
+| quick-start-docker.md         	|        	|        	|          	|      	|
+| quick-start.md                	|        	|        	|          	|      	|
+| resource-limits.md            	|        	|        	|          	|      	|
+| storage-providers.md          	|        	|        	|          	|      	|
+| test-network.md               	|        	|        	|          	|      	|
+| windows-support.md            	|        	|        	|          	|      	|
+| debugging.md                  	|        	|        	|          	|      	|
