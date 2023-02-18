@@ -20,6 +20,8 @@ Bacalhau技术文档（英文版本）：[网页](https://docs.bacalhau.org)/[Gi
 ### 拉取请求 Pull Request
 我们当然也欢迎你呈交拉取请求。我们会尽快审批并且合到main分支上。欢迎[点击这里](https://github.com/lucas-chong/cn-docs.bacalhau.org/pulls)
 
+<br>
+
 ## 技术文档翻译清单 Checklist📋
 
 ### 简体中文
