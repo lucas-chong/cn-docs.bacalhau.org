@@ -24,6 +24,8 @@ Bacalhau技术文档（英文版本）：[网页](https://docs.bacalhau.org)/[Gi
 
 ## 技术文档翻译清单 Checklist📋
 
+若该主题篇章未有任何的翻译负责人，你就能参与翻译该篇文章！只需要开起议题issue进行申请。参考contribution-guide.md
+
 ### 简体中文
 
 | 主题                          	| 负责人 	| 审核员 	| 赏金金额 	| 完成✅|
